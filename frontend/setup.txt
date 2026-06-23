@@ -1,3 +1,6 @@
 Hello from Adarsh this is my first commit.
 Hello from Adarsh , nice to meet you 
 
+function sum(int a , int b){
+    return a+b;
+}
